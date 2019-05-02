@@ -1,3 +1,6 @@
-function twoSum (){
-  
+function twoSum(){
+
 }
+
+
+module.exports = twoSum
